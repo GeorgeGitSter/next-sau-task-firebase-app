@@ -9,7 +9,7 @@ export default function Home() {
         <Image className="mt-15" src={task} alt="Task" width={200} />
 
         <h1 className="mt-10 text-3xl text-blue-700">
-          <span className="font-bold text-4xl">My George Task App By Firebase</span>
+          <span className="font-bold text-4xl">My George Task App With Firebase</span>
         </h1>
 
         <h1 className="text-2xl text-blue-700 mt-5">
